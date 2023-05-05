@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.main
+{
+background-color: #f7f7f7;
+}
+
+.first
+{
+   text-align: center;
+   margin: -125px auto;
+}
+
+.second
+{
+    margin: -200px auto;
+    text-align: center;
+    
+}
+
+.second button
+{
+background-color: #00a400;
+border: none;
+border-radius: 5px;
+color: #fff;
+font-style: bold;
+font-size: 20px;
+padding: 10px 20px;
+}
+.second button:hover
+{
+background-color: #0d770d;
+}
